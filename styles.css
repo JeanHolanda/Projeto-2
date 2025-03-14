@@ -111,7 +111,7 @@ p{
         height: 31px;
         flex-shrink: 0;
         font-size: 12px;
-        margin: -10px 0 0 62%;
+        margin: -20px 0 0 52%;
         position: absolute;
     }
 
@@ -119,11 +119,12 @@ p{
         width: 312px;
         height: 288px;
         position: absolute;
-        margin: 125% 10px 0 45px;
+        margin: 105% 10px 0 23px;
+        padding: 15px;
     }
 
     section{
-        margin: 50px;
+        margin: 35px 10px 10px 26px;
     }
 
     h1{
@@ -137,10 +138,12 @@ p{
     p{
         width: 304px;
         text-align: center;
-        margin: 29px 0 26px 0;
+        margin: 29px 0 26px -2px;
+        font-size: 18px;
     }
 
     .link-section{
-        margin-left: 31%;
+        margin-left: 35%;
+        font-size: 16px;
     }
 }
